@@ -6,5 +6,12 @@
 }
 .button{
   color:blue;
+    background-color:red;
+    height:30px;
+    width:50px;
+    border-radius:10px;
+    border:none;
+}
+.card{
     text-align:center;
 }
